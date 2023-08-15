@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg" alt="MasterHead">
+  <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Banner GIF" width="1000" height="400" >
+</div>
+
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Imtiaz Chowdhury Sakib</h1>
